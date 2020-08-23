@@ -23,5 +23,27 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jackson-annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jackson-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jackson-databind-2.11.0.jar" sourcepath="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jackson-databind-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyData_Dell_27June20/eclipse-workspace _VJ/JARforAPI/tagsoup-1.2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

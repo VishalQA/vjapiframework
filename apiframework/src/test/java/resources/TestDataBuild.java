@@ -20,8 +20,8 @@ public class TestDataBuild {
 		p.setWebsite("http://google.com");
 		
 		List<String> mylist = new ArrayList<String>();
-		mylist.add("shoe parkz");
-		mylist.add("shopz");
+		mylist.add("shoe parkb");
+		mylist.add("shopb");
 		
 		p.setTypes(mylist);
 		
@@ -32,6 +32,11 @@ public class TestDataBuild {
 		
 		return p;
 		
+	}
+	 
+	public String deleteplacepayload(String placeid) {
+		
+		return "{\r\n \"place_id\":\""+placeid+"\"\r\n}";
 	}
 
 }
